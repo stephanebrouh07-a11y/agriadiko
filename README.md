@@ -1,2 +1,0 @@
-# agriadiko
-service en ligne
